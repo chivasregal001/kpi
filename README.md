@@ -1,1 +1,1 @@
-Repository untuk Pemilihan Ketua dan Wakil OSIS SMP
+Repository untuk KPI
